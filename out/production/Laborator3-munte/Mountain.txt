@@ -1,0 +1,12 @@
+11
+Negoiu,2535
+Moldoveanu,2544
+Musetescu,2495
+Parangul Mare,2519
+Scarisoara Mare,2495
+Vistea Mare,2527
+Omu,2505
+Peleaga,2509
+Cornul Caltunu,2505
+Boiu,2431
+Bucura,2433
